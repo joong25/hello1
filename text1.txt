@@ -1,3 +1,5 @@
 hello
 bye
 see you
+wake up 
+Let's go
